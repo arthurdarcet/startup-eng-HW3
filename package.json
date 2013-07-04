@@ -1,11 +1,14 @@
 {
-  "name": "node-example",
-  "version": "0.0.1",
-  "dependencies": {
-    "express": "2.5.x"
-  },
-  "engines": {
-    "node": "0.8.x",
-    "npm": "1.1.x"
-  }
+	"name": "startup-eng-hw3",
+	"version": "0.0.1",
+	"dependencies": {
+		"cheerio": "*",
+		"commander": "*",
+		"express": "2.5.x",
+		"restler": "*"
+	},
+	"engines": {
+		"node": "0.8.x",
+		"npm": "1.1.x"
+	}
 }
